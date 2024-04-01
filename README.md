@@ -1,4 +1,4 @@
-## IMAGEPREPROCESSINGAPI
+## IMAGE__PREPROCESSING__API
 
 Este es un archivo README para la API de procesamiento de imágenes en Python.
 
@@ -55,28 +55,3 @@ Para publicar esta API en IIS, sigue los siguientes pasos:
 
 Con estos pasos, tu API debería estar lista para ejecutarse en IIS.
 
-
-
-1. **Crear un entorno virtual:**
-	- abrir la consola de comandos como administrador.
-	- navegar hacia la carpeta en donde se encuentra la publicacion del aplicativo
-	- ejecutar el siguiente comando: '''python -m venv flaskapivenv''', el nombre: **flaskapivenv** puede cambiar dependiendo del aplicativo
-2. se procede a activar el scripts del entorno virtual
-	- nos dirigimos a la ruta del script '''flaskapivenv\Scripts\activate.bat'''
-	- procedemos a activarlo.
-	- Ejemplo de salida luego de activar el entorno virtual: **(flaskapivenv)** C:\DuvanCastro\Aplicaciones\FlaskWebProjectDemo>
-3. Instalamos flask en el entorno virtual
-	- ejecutamos el comando '''pip install flask'' en la ruta brindada
-	- esperamos hasta que instale, version instalada ''flask 3.0.2''
-4. Instalamos pillow en el entorno virtual
-	- ejecutamos el comando '''pip install pillow'' en la ruta brindada
-	- esperamos hasta que instale, version instalada ''pillow 10.3.0''
-
-5. Para este caso Instalamos img2table en el entorno virtual
-	- ejecutamos el comando '''pip install img2table'' en la ruta brindada
-	- esperamos hasta que instale
-6. Para este caso Instalamos requests en el entorno virtual
-	- ejecutamos el comando '''pip install requests'' en la ruta brindada
-	- esperamos hasta que instale
-7. Procedemos a ejecutar la APIWEB 
-	- ejecutamos el comando '''python runserver.py''', sabiendo que el archivo runserver.py corresponde al archivo principal de ejcucion de la API
