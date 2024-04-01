@@ -2,6 +2,15 @@
 
 Este es un archivo README para la API de procesamiento de imágenes en Python.
 
+### Preparación del Entorno
+
+Antes de proceder con la instalación y configuración de la API, asegúrate de tener Python instalado en tu sistema. Sigue los siguientes pasos:
+
+1. **Instalación de Python 3.12.2 amd64:**
+   - Descarga el instalador de Python 3.12.2 amd64 desde [python.org](https://www.python.org/downloads/).
+   - Ejecuta el instalador como administrador.
+   - Durante la instalación, asegúrate de seleccionar la opción para agregar Python al PATH del sistema.
+
 ### Publicación en IIS
 
 Para publicar esta API en IIS, sigue los siguientes pasos:
@@ -52,6 +61,13 @@ Para publicar esta API en IIS, sigue los siguientes pasos:
      python runserver.py
      ```
      Asegúrate de que `runserver.py` corresponde al archivo principal de ejecución de la API.
+
+7. **Configurar el IIS:**
+   - Abre el Administrador de IIS.
+   - Crea un nuevo sitio web.
+   - Asigna la carpeta de la API como ruta física del sitio web.
+   - Asegúrate de configurar correctamente los permisos de acceso.
+   - Configura cualquier otro ajuste necesario para tu entorno específico.
 
 Con estos pasos, tu API debería estar lista para ejecutarse en IIS.
 
