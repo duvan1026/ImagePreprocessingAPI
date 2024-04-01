@@ -5,102 +5,102 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\DuvanCastro\Aplicaciones\ImagePreprocessingAPI</_PublishTargetUrl>
-    <History>True|2024-03-27T19:54:33.7958337Z;</History>
+    <History>True|2024-03-27T20:07:49.9869180Z;True|2024-03-27T14:54:33.7958337-05:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
     <File Include="ImagePreprocessingAPI/static/content/bootstrap.css">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/content/bootstrap.min.css">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/content/site.css">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/fonts/glyphicons-halflings-regular.eot">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/fonts/glyphicons-halflings-regular.svg">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/fonts/glyphicons-halflings-regular.ttf">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/fonts/glyphicons-halflings-regular.woff">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/scripts/bootstrap.js">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/scripts/bootstrap.min.js">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/scripts/jquery-1.10.2.intellisense.js">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/scripts/jquery-1.10.2.js">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/scripts/jquery-1.10.2.min.js">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/scripts/jquery-1.10.2.min.map">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/scripts/jquery.validate-vsdoc.js">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/scripts/jquery.validate.js">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/scripts/jquery.validate.min.js">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/scripts/jquery.validate.unobtrusive.js">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/scripts/jquery.validate.unobtrusive.min.js">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/scripts/modernizr-2.6.2.js">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/scripts/respond.js">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/scripts/respond.min.js">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/static/scripts/_references.js">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/TableDetectorController.py">
-      <publishTime>03/27/2024 14:18:18</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/templates/about.html">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/templates/contact.html">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/templates/index.html">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/templates/layout.html">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/views.py">
-      <publishTime>03/27/2024 14:04:24</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="ImagePreprocessingAPI/__init__.py">
-      <publishTime>03/27/2024 14:12:05</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="requirements.txt">
-      <publishTime>03/22/2024 15:21:25</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
     <File Include="runserver.py">
-      <publishTime>03/27/2024 14:50:06</publishTime>
+      <publishTime>03/27/2024 15:04:42</publishTime>
     </File>
   </ItemGroup>
 </Project>
